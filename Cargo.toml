@@ -1,0 +1,6 @@
+[package]
+name = "rust-gtk-gui"
+version = "0.1.0"
+authors = ["Alex Yang <aleozlx@gmail.com>"]
+
+[dependencies]
